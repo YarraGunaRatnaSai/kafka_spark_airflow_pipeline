@@ -1,4 +1,4 @@
-# Data Pipeline Sample
+# Sample Data Pipeline
 
 Data Pipeline code using Kafka, Spark and Airflow tried on Mac(local setup)
 
